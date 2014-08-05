@@ -1,1 +1,1 @@
-I am old, I am old.
+puts "I am old, I am old."
